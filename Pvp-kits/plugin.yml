@@ -1,0 +1,10 @@
+name: KitGUI
+version: 1.0
+main: com.expir3dcow.GUI.KitGUI
+author: expir3dcow
+description: Open a GUI, to select kits.
+commands:
+    kits:
+        usage: /<command>
+        aliases: [kit]
+        description: Heal.
