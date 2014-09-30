@@ -2,4 +2,4 @@ name: Launchpad
 version: 1.0
 main: com.expir3dcow.launchpad.LaunchPad
 author: expir3dcow
-description: Launch on pressure plates.
+description: Stepping onto a sponge will launch you into the air
