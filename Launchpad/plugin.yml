@@ -1,0 +1,5 @@
+name: Launchpad
+version: 1.0
+main: com.expir3dcow.launchpad.LaunchPad
+author: expir3dcow
+description: Launch on pressure plates.
